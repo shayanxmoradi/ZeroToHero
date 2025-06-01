@@ -1,4 +1,4 @@
-package org.example.zerotohero.exceptions;
+package org.example.zerotohero.exceptions.throwsx;
 
 /**
  * Diese Klasse demonstriert, wie man mit 'throw' explizit Exceptions auslöst,

@@ -1,4 +1,4 @@
-package org.example.zerotohero.exceptions;
+package org.example.zerotohero.exceptions.throwsx;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileNotFoundException;
